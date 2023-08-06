@@ -1,5 +1,4 @@
 # ChessDataAnalytics
-Big Data Project for CS-GY 6513
 
 Please download the database used for this project from <br>
 [Download](https://drive.google.com/file/d/1F8QWIkjhrOJdqkNrlN19nnWQpeww-2mv/view?usp=sharing)
